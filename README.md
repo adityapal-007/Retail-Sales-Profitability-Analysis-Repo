@@ -72,7 +72,7 @@ The dataset includes retail transaction data with:
 
 ## 📄 Report
 Detailed report available here:  
-📎 [View Report](report/report.pdf)
+📎 [View Report](report/retail-sales-analysis-report.pdf)
 
 ---
 
